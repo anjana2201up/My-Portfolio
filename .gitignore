@@ -1,0 +1,14 @@
+node_modules/
+temp-pdf-convert/
+extract_nav.js
+extract_sections.js
+fetch.js
+fix.js
+fix_html.js
+update_font.js
+update_html_urls.js
+update_script.js
+update_theme.js
+.env
+.env.local
+.DS_Store
