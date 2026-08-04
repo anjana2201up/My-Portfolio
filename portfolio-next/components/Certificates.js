@@ -59,65 +59,65 @@ export default function Certificates() {
                 <div className="cert-track-wrap">
           <div className="cert-track" id="cert-track">
             
-            <a href="images/AI Oracle Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/AI_Oracle_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/AI Oracle Certificate.jpg" alt="AI Oracle Certificate" />
+                <img src="images/AI_Oracle_Certificate.jpg" alt="AI Oracle Certificate" />
                 <h4>AI Oracle Certificate</h4>
                 <p>Oracle</p>
               </div>
             </a>
-            <a href="images/Code Clash Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/Code_Clash_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/Code Clash Certificate.jpg" alt="Code Clash Certificate" />
+                <img src="images/Code_Clash_Certificate.jpg" alt="Code Clash Certificate" />
                 <h4>Code Clash Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/DBMS Oracle Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/DBMS_Oracle_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/DBMS Oracle Certificate.jpg" alt="DBMS Oracle Certificate" />
+                <img src="images/DBMS_Oracle_Certificate.jpg" alt="DBMS Oracle Certificate" />
                 <h4>DBMS Oracle Certificate</h4>
                 <p>Oracle</p>
               </div>
             </a>
-            <a href="images/MOOC Certification.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/MOOC_Certification.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/MOOC Certification.jpg" alt="MOOC Certification" />
+                <img src="images/MOOC_Certification.jpg" alt="MOOC Certification" />
                 <h4>MOOC Certification</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.54 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.54_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.54 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.54_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.55 AM (1).jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM_1_.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.55 AM (1).jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM_1_.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.55 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.55 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2026-01-21 at 9.07.07 PM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2026-01-21_at_9.07.07_PM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2026-01-21 at 9.07.07 PM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2026-01-21_at_9.07.07_PM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2026-07-26 at 12.13.56 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2026-07-26_at_12.13.56_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2026-07-26 at 12.13.56 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2026-07-26_at_12.13.56_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
@@ -136,81 +136,81 @@ export default function Certificates() {
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/infosys certificate2.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/infosys_certificate2.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/infosys certificate2.jpg" alt="Infosys Certificate 2" />
+                <img src="images/infosys_certificate2.jpg" alt="Infosys Certificate 2" />
                 <h4>Infosys Certificate 2</h4>
                 <p>Infosys</p>
               </div>
             </a>
-            <a href="images/infosys cetrificate1.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/infosys_cetrificate1.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/infosys cetrificate1.jpg" alt="Infosys Certificate 1" />
+                <img src="images/infosys_cetrificate1.jpg" alt="Infosys Certificate 1" />
                 <h4>Infosys Certificate 1</h4>
                 <p>Infosys</p>
               </div>
             </a>
 
             
-            <a href="images/AI Oracle Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/AI_Oracle_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/AI Oracle Certificate.jpg" alt="AI Oracle Certificate" />
+                <img src="images/AI_Oracle_Certificate.jpg" alt="AI Oracle Certificate" />
                 <h4>AI Oracle Certificate</h4>
                 <p>Oracle</p>
               </div>
             </a>
-            <a href="images/Code Clash Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/Code_Clash_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/Code Clash Certificate.jpg" alt="Code Clash Certificate" />
+                <img src="images/Code_Clash_Certificate.jpg" alt="Code Clash Certificate" />
                 <h4>Code Clash Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/DBMS Oracle Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/DBMS_Oracle_Certificate.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/DBMS Oracle Certificate.jpg" alt="DBMS Oracle Certificate" />
+                <img src="images/DBMS_Oracle_Certificate.jpg" alt="DBMS Oracle Certificate" />
                 <h4>DBMS Oracle Certificate</h4>
                 <p>Oracle</p>
               </div>
             </a>
-            <a href="images/MOOC Certification.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/MOOC_Certification.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/MOOC Certification.jpg" alt="MOOC Certification" />
+                <img src="images/MOOC_Certification.jpg" alt="MOOC Certification" />
                 <h4>MOOC Certification</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.54 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.54_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.54 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.54_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.55 AM (1).jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM_1_.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.55 AM (1).jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM_1_.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2024-11-15 at 12.02.55 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2024-11-15 at 12.02.55 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2024-11-15_at_12.02.55_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2026-01-21 at 9.07.07 PM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2026-01-21_at_9.07.07_PM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2026-01-21 at 9.07.07 PM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2026-01-21_at_9.07.07_PM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/WhatsApp Image 2026-07-26 at 12.13.56 AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/WhatsApp_Image_2026-07-26_at_12.13.56_AM.jpeg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/WhatsApp Image 2026-07-26 at 12.13.56 AM.jpeg" alt="Certificate" />
+                <img src="images/WhatsApp_Image_2026-07-26_at_12.13.56_AM.jpeg" alt="Certificate" />
                 <h4>Certificate</h4>
                 <p>Achievement</p>
               </div>
@@ -229,16 +229,16 @@ export default function Certificates() {
                 <p>Achievement</p>
               </div>
             </a>
-            <a href="images/infosys certificate2.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/infosys_certificate2.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/infosys certificate2.jpg" alt="Infosys Certificate 2" />
+                <img src="images/infosys_certificate2.jpg" alt="Infosys Certificate 2" />
                 <h4>Infosys Certificate 2</h4>
                 <p>Infosys</p>
               </div>
             </a>
-            <a href="images/infosys cetrificate1.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
+            <a href="images/infosys_cetrificate1.jpg" target="_blank" style={{"textDecoration":"none","color":"inherit"}}>
               <div className="cert-card">
-                <img src="images/infosys cetrificate1.jpg" alt="Infosys Certificate 1" />
+                <img src="images/infosys_cetrificate1.jpg" alt="Infosys Certificate 1" />
                 <h4>Infosys Certificate 1</h4>
                 <p>Infosys</p>
               </div>
