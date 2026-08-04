@@ -12,3 +12,4 @@ update_theme.js
 .env
 .env.local
 .DS_Store
+fix_image_paths.js
